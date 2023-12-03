@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#432181</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:background">#C4F8FF</item>
+    </style>
+</resources>
